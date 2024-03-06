@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://FabianAltendorfer.github.io/educator-js-codespace-template",
+  "homepage": "https://FabianAltendorfer.github.io/codespaces_test",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://FabianAltendorfer.github.io/educator-js-codespace-template/'",
+    "build-gh": "parcel build --public-url 'https://FabianAltendorfer.github.io/codespaces_test'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
